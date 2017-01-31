@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-# profile
+### profile
 name: Hiromichi Ema  
-job: web and app Engineer
+job: web and app Engineer  
+lang: php/ruby/swift  
+editor: atom  
 
 ### More Information
 
-lang: php/ruby/swift  
-editor: atoms
+文系出身エンジニアです。  
+就職してから本格的にプログラミングをはじめました。  
+今は渋谷で働いてます。  
 
-### Contact me
+### Contact
 
 [emahiro@gmail.com](mailto:email@domain.com)
