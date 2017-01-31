@@ -1,6 +1,7 @@
 name: emh1Log.io
 description: "Web Developer/Rails/iOS あたりのことをちらほら"
-avatar:  https://github.com/ememhr/ememhr.github.io/blob/master/images/my_icon.jpg
+avatar:  https://raw.githubusercontent.com/ememhr/ememhr.github.io/master/images/my_icon.jpg
+# https://raw.githubusercontent.com/yourname/your.github.io/master/images/yourimagename.jpg
 footer-links:
   dribbble:
   email:
