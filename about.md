@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 # profile
-name: Hiromichi Ema
+name: Hiromichi Ema  
 job: web and app Engineer
 
 ### More Information
 
-lang: php/ruby/swift
+lang: php/ruby/swift  
 editor: atoms
 
 ### Contact me
