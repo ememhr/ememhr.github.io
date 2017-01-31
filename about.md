@@ -20,4 +20,4 @@ noteはほんとに思ったことつらつらと書いてるだけだったり�
 
 ### Contact
 
-[emahiro@gmail.com](mailto:email@domain.com)
+[📧](mailto:emahiro@gmail.com)
