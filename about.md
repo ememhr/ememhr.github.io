@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# profile
+name: Hiromichi Ema
+job: web and app Engineer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+lang: php/ruby/swift
+editor: atoms
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emahiro@gmail.com](mailto:email@domain.com)
