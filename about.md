@@ -17,7 +17,3 @@ editor: atom
 今は渋谷で働いてます。  
 noteは[こちら](https://note.mu/emahiro)  
 noteはほんとに思ったことつらつらと書いてるだけだったりします。
-
-### Contact
-
-[📧](mailto:emahiro@gmail.com)
